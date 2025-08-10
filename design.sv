@@ -1,4 +1,4 @@
-// Code your design here
+// APB PROTOCOL MASTER DESIGN
 //fifo module
 
 module sync_fifo #(
